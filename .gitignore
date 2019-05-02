@@ -1,0 +1,6 @@
+#add your directories that you want to be ignored
+
+.vscode
+.c9
+CMakeFiles/
+.cpp.o
